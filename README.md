@@ -3,7 +3,8 @@
 
 - 🔭 We are currently building [10-Week DSA with C++ Cohort](https://github.com/simplifylearning101/dsa_with_cpp). Go check out.  
 
-- Our tech coodinator - Adit K
-- Our project coodinator - Ashwini
+- Our tech coordinator - Adit K
+- Our project coordinator - Ashwini
+
 - 📫 How to reach us **simplifylearning101@gmail.com**
 

@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, This is simplifylearning101</h1>
 <h3 align="center">A passionate edtech academy from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simplifylearning101&label=Profile%20views&color=0e75b6&style=flat" alt="simplifylearning101" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simplifylearning101" alt="simplifylearning101" /></a> </p>
-
 - 🔭 We are currently building [10-Week DSA Cohort in C++](https://github.com/simplifylearning101/dsa_with_cpp)
 
 - 📫 How to reach us **simplifylearning101@gmail.com**

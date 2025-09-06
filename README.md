@@ -1,12 +1,11 @@
+
 <div align="center">
   <img src="static/banner.png" alt="Banner Image">
 </div>
 <h1 align="center">Hi 👋, This is simplifylearning101</h1>
 <h3 align="center">A passionate edtech academy from India</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/{simplifylearning101}/count.svg)
-
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=simplifylearning101.simplifylearning101)
 
 - 🔭 We are currently building [10-Week DSA with C++ Cohort](https://github.com/simplifylearning101/dsa_with_cpp). Go check out.  
 

@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="static/banner.png" alt="Banner Image">
+</div>
 <h1 align="center">Hi 👋, This is simplifylearning101</h1>
 <h3 align="center">A passionate edtech academy from India</h3>
 
@@ -7,4 +10,5 @@
 - Our project coordinator - Ashwini
 
 - 📫 How to reach us **simplifylearning101@gmail.com**
+
 

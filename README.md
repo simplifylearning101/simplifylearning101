@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="static/banner.png" alt="Banner Image" width="25%">
+  <img src="static/banner.png" alt="Banner Image" width="50%">
 </div>
 <h1 align="center">Hi 👋, This is simplifylearning101</h1>
 <h3 align="center">A passionate edtech academy from India</h3>
